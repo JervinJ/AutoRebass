@@ -53,18 +53,16 @@ Auto Rebass is a real-time audio processing application designed for system-wide
 
 ## Default Settings
 
-- **Input Gain**: 0.0 dB
-- **Sub Mix Gain**: 0.5
-- **Crossover Cutoff**: 80 Hz
-- **Bass Delay**: 0.0 ms
-- **Music Delay**: 25.0 ms
-- **Noise Gate**: -60.0 dB
-- **Wet/Dry Mix**: 0.5
+- **Sub Mix Gain**: 50%
+- **Crossover Cutoff**: 90 Hz
+- **Noise Gate**: -70.0 db
+- **Mixer Node S3/S2 Mix**: 0.95
 - **Auto-Clipping**: Enabled
-- **Bass Replacement**: Enabled
 - **Bass Tune**: Enabled
 - **BPM Quantization**: Enabled
 - **Pure Note Mode**: Enabled
 - **Native EQ Mode**: Enabled
 - **Invert Phase**: Disabled
 - **Auto-Retime**: Disabled
+
+- **Enclosure Mode**: Disabled (almost all other settings are bypassed in this mode due to its nature.
